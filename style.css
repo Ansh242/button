@@ -1,3 +1,12 @@
+body{
+  background-image: url("assets/floral-ornamental-abstract-background_52683-30016.avif");
+  background-position: center ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 20px;
+}
+
 .button {
   --white: #ffe7ff;
   --purple-100: #f4b1fd;
